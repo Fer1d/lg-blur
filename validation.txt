@@ -1,0 +1,14 @@
+PASS Python py_compile for all published Python scripts
+PASS bash -n framework/build_candidate.sh
+PASS bash -n sf/reproduce.sh
+PASS javac standalone tests warning: [options] source value 8 is obsolete and will be removed in a future release
+warning: [options] target value 8 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+3 warnings
+
+PASS StableCapturePacerTest PASS helper state checks=17
+
+PASS HostTest PASS 92217 checks; 10000 sizing cases; 28 allocation-failure transactions; 7 targets; host model ONLY
+
+SKIP SF external exact-input test: expected input/surfaceflinger absent; no device/binary copied
+NOT RUN Android build, generators, allocator (Android GL dependency), integration, SF full LLVM/scope test, device/performance tests

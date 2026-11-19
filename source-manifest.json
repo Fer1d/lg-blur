@@ -1,0 +1,142 @@
+[
+  {
+    "source": "landscape-framework-fsqX6azN/LandscapeSizing.java",
+    "published": "framework/LandscapeSizing.java",
+    "original_sha256": "91f036836e294e626bb65e46683701c1aa31ec56c9e8aaa9e3170f02a5ddb4f6",
+    "published_sha256": "91f036836e294e626bb65e46683701c1aa31ec56c9e8aaa9e3170f02a5ddb4f6",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/ValidatedTargets.java",
+    "published": "framework/ValidatedTargets.java",
+    "original_sha256": "187ccbf4f2a3fd465e4ce9f7d9486783602688930a9c837448de480f25ad0f55",
+    "published_sha256": "187ccbf4f2a3fd465e4ce9f7d9486783602688930a9c837448de480f25ad0f55",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/LandscapeLifecycle.java",
+    "published": "framework/LandscapeLifecycle.java",
+    "original_sha256": "db78a8a7a46fc973403f16c72c4ecf64325dd247993a5bfa97f96b7db647f6ab",
+    "published_sha256": "db78a8a7a46fc973403f16c72c4ecf64325dd247993a5bfa97f96b7db647f6ab",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/generate_bridges.py",
+    "published": "framework/generate_bridges.py",
+    "original_sha256": "f2f36b0625356cbc3a88e0015f388998bf33eb153f7240812e50acf208e0f56e",
+    "published_sha256": "cd15904a8e1ddd196d43f54c2865b91e6755720f2badfcd5943da783dfe2453e",
+    "adapted": true
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/generate_lifecycle.py",
+    "published": "framework/generate_lifecycle.py",
+    "original_sha256": "e08c22cdce0c75ecf205b7db07ebb0bc2e1783546542a064db5322d20d2f8806",
+    "published_sha256": "e08c22cdce0c75ecf205b7db07ebb0bc2e1783546542a064db5322d20d2f8806",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/build_candidate.sh",
+    "published": "framework/build_candidate.sh",
+    "original_sha256": "6fa7e6a06bd17cb6a2e2245c28720df7827ca2c2726fc80ce41b964c7ec1a323",
+    "published_sha256": "c4919d7ffdf94e52968168a66add335890092348e0815272bf58ddc3be25b1ba",
+    "adapted": true
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/AssemblyTool.java",
+    "published": "framework/AssemblyTool.java",
+    "original_sha256": "ee5e560eeeff72a77fccdba65eb6e4306238b35a81c60956fdfcb239e9edca70",
+    "published_sha256": "ee5e560eeeff72a77fccdba65eb6e4306238b35a81c60956fdfcb239e9edca70",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/CandidateDexCheck.java",
+    "published": "framework/CandidateDexCheck.java",
+    "original_sha256": "9aa0dfdbfe0b79143f7cf8b47d5b65f7ca9b1bf246e80efadbd85eef3a2b970e",
+    "published_sha256": "9aa0dfdbfe0b79143f7cf8b47d5b65f7ca9b1bf246e80efadbd85eef3a2b970e",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/LockDexCheck.java",
+    "published": "framework/LockDexCheck.java",
+    "original_sha256": "f77ca4effda520508ca9b3ed3e0f28c755bae6b69bd9f4f7449acd3bf4673de0",
+    "published_sha256": "f77ca4effda520508ca9b3ed3e0f28c755bae6b69bd9f4f7449acd3bf4673de0",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/LifecycleModel.java",
+    "published": "framework/LifecycleModel.java",
+    "original_sha256": "f57043f812473f6617207ee569999234a8d749241faa26e22fff19471c439daa",
+    "published_sha256": "f57043f812473f6617207ee569999234a8d749241faa26e22fff19471c439daa",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/HostTest.java",
+    "published": "framework/HostTest.java",
+    "original_sha256": "a937b47c4dcde677c4e32e4e050a3ce2cd0af4a978c3516d15d44437c36479f4",
+    "published_sha256": "a937b47c4dcde677c4e32e4e050a3ce2cd0af4a978c3516d15d44437c36479f4",
+    "adapted": false
+  },
+  {
+    "source": "landscape-framework-fsqX6azN/AllocatorTest.java",
+    "published": "framework/AllocatorTest.java",
+    "original_sha256": "71aebbbe1969bc1d30c6f9b30c22a564dd42eadb42b84aec2cd09cfcbd587eab",
+    "published_sha256": "71aebbbe1969bc1d30c6f9b30c22a564dd42eadb42b84aec2cd09cfcbd587eab",
+    "adapted": false
+  },
+  {
+    "source": "blur-reuse-_4mezax_/framework/source/StableCapturePacer.java",
+    "published": "capture/StableCapturePacer.java",
+    "original_sha256": "e29101e0d8c4b6db4f1722a0cefbf5356fe18b35193dda110493f3532109a318",
+    "published_sha256": "e29101e0d8c4b6db4f1722a0cefbf5356fe18b35193dda110493f3532109a318",
+    "adapted": false
+  },
+  {
+    "source": "blur-reuse-_4mezax_/framework/source/CaptureIntegration.java",
+    "published": "capture/CaptureIntegration.java",
+    "original_sha256": "5504f7e1dca120dd9365413d89b55adecaa1ed98ae2509a65e75f1f267e3c480",
+    "published_sha256": "5504f7e1dca120dd9365413d89b55adecaa1ed98ae2509a65e75f1f267e3c480",
+    "adapted": false
+  },
+  {
+    "source": "blur-reuse-_4mezax_/framework/tests/StableCapturePacerTest.java",
+    "published": "capture/StableCapturePacerTest.java",
+    "original_sha256": "285001dcddd8b73a78c742cb73f0114715fd7b9abc7ca39e65ffe64b30638200",
+    "published_sha256": "285001dcddd8b73a78c742cb73f0114715fd7b9abc7ca39e65ffe64b30638200",
+    "adapted": false
+  },
+  {
+    "source": "sf-half-C9DIQXMf/scripts/elf_audit.py",
+    "published": "sf/elf_audit.py",
+    "original_sha256": "537a7e74c595570f0d3a17b08f3eb06e63a8a60748ab96d9baf87160a02538a5",
+    "published_sha256": "6fa5a6308f39fe7b12f4265ca9940a82e15d9a1f1af710b02de1d3361794e216",
+    "adapted": true
+  },
+  {
+    "source": "sf-half-C9DIQXMf/scripts/patch.py",
+    "published": "sf/patch.py",
+    "original_sha256": "161477228ac55ff2a66cd0a49bbf563f0b0a5ce23b7cfc0a8a83602200842df7",
+    "published_sha256": "161477228ac55ff2a66cd0a49bbf563f0b0a5ce23b7cfc0a8a83602200842df7",
+    "adapted": false
+  },
+  {
+    "source": "sf-half-C9DIQXMf/scripts/scope_audit.py",
+    "published": "sf/scope_audit.py",
+    "original_sha256": "5875c7c8869222e31cf3d3ca77617cbd7d8f1d4ac09af92e0926b9e0a986df7f",
+    "published_sha256": "c5f5fe653c21324ca7873318056dcfd9e5c1a09ba925ba35de1b82bad0b8890e",
+    "adapted": true
+  },
+  {
+    "source": "sf-half-C9DIQXMf/scripts/test.py",
+    "published": "sf/test.py",
+    "original_sha256": "74a5f5b2c71e521244dbc98cee0d15ebfa0c02f6efaafc85ca8639366cef103f",
+    "published_sha256": "badec80933af2c2670539c8b81b3d656049f4f96fe4b1516eae29a299f3c96c0",
+    "adapted": true
+  },
+  {
+    "source": "sf-half-C9DIQXMf/scripts/reproduce.sh",
+    "published": "sf/reproduce.sh",
+    "original_sha256": "23a8e71c1d4289d4158bce51253b915b244b96dac82ac79aa7a2283c8968d72d",
+    "published_sha256": "a09b0d61d7275f8f9da2b477576581a11db4180440c2aeacbece049dccf464da",
+    "adapted": true
+  }
+]
